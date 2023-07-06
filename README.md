@@ -1,6 +1,6 @@
 # error-prone-lombok-issue
 
-Executing `mvn clean install` results in :
+Executing `mvn clean install` with Java 11 results in :
 ```
 [ERROR] Failed to execute goal org.apache.maven.plugins:maven-compiler-plugin:3.11.0:compile (default-compile) on project errorproneissue: Compilation failure
 [ERROR] /<redacted>/error-prone-lombok-issue/src/main/java/org/example/AnyClass.java:[5,1] An unhandled exception was thrown by the Error Prone static analysis plugin.
