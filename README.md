@@ -1,5 +1,7 @@
 # error-prone-lombok-issue
 
+Created for https://github.com/PicnicSupermarket/error-prone-support/issues/716
+
 Executing `mvn clean install` with Java 11 results in :
 ```
 [ERROR] Failed to execute goal org.apache.maven.plugins:maven-compiler-plugin:3.11.0:compile (default-compile) on project errorproneissue: Compilation failure
